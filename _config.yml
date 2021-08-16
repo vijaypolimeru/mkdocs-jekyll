@@ -54,7 +54,7 @@ tag_color: danger # danger, success, warning, primary, info, secondary
 
 accentColor: white # purple, green, etc.
 themeColor: white # purple, green, blue, orange, purple, grey
-fixedNav: 'true' # true or false
+fixedNav: 'false' # true or false
 
 permalink: /:year/:title/
 markdown: kramdown
