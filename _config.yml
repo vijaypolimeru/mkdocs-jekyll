@@ -53,7 +53,7 @@ tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
 tag_color: danger # danger, success, warning, primary, info, secondary
 
 accentColor: white # purple, green, etc.
-themeColor: blue # purple, green, blue, orange, purple, grey
+themeColor: white # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
